@@ -30,3 +30,4 @@ Simple Applescript that takes the photo passed, requests an email, and sends bot
 	- jams after each photo if you don't manually pull the finished photo out, needs manual restart after jamming
 	- WiFi problems maybe, but photos take a long time to arrive at the printer and start printing
 
+{{building|nodejs|bash|apple|}}
