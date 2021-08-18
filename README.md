@@ -1,6 +1,6 @@
 # Photo Booth
 
-Email photos as part of a tethered photo-booth setup. We use this for a Christmas event at church.
+Builds and sends templated emails as part of a tethered photo-booth setup. MacOS Automator ties together NodeJS and bash scripts here, resulting in a simple workflow.
 
 ## Components
 ### premailer.js
